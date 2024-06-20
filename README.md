@@ -110,6 +110,14 @@ In a cell below this one, use Markdown to tell us a little bit about yourself. S
 - what got you interested in neuroscience /or psychology
 - what your career plans are (or post-graduation plans, if you haven't figured that out yet!)
 
+## Name
+**Rishad Israil**
+## A photo of me
+## Year
+First year.
+## Major
+*Neuroscience*
+
 Impress us with your newfound command of the Markdown language. Use headings above your answers for each question, and maybe throw in some bold or italic text, a list, or something else.
 
 How long should your answers be? Think of it this way: we're asking because we want to get to know you a little, and so that you can demonstrate some facility with Markdown. So you need to produce enough content to meet those goals. But, we have 20 of these to read, and other things to do with our lives. So try to keep it to a length that we'll find interesting and not boring. 
