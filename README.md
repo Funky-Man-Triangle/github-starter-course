@@ -91,6 +91,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ## 📝 TO COMPLETE THIS ASSIGNMENT
 
 ### Edit the README file and commit
+Rishad was here.
 * Edit the README file in your repository. Somewhere near the top, write something like, `[your name] was here` (where you replace `[your name]` with your actual name) 
 * Save the file, and then commit it. See the [textbook for instructions on this process](https://neuraldatascience.io/2b-setup/repo_in_vscode.html).
 
