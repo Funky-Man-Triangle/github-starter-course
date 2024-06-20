@@ -111,7 +111,7 @@ In a cell below this one, use Markdown to tell us a little bit about yourself. S
 - what your career plans are (or post-graduation plans, if you haven't figured that out yet!)
 
 ## Name
-**Rishad Israil**
+**Rishad**
 ## A photo of me
 ## Year
 First year.
